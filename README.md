@@ -1,14 +1,8 @@
-Noteplaid
+Noteplaid++
 =========
 
-Plaid text editor. Perfect for hipsters
+Plaid text editor. Perfect for hipster developers.
 
-Screenshot (V1.0.3):
+Noteplaid (Vanilla) Screenshot (V1.0.3):
 
 ![GUI Mockup](http://i.imgur.com/iGRgDxR.png)
-
-
-
-Original GUI Mockup:
-
-![GUI Mockup](http://i.imgur.com/5cZsTAH.png)
